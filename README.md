@@ -1,2 +1,2 @@
 # ML-Phy
-Machine learning notebooks for physics
+Machine learning notebooks for physics major student
